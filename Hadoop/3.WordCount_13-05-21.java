@@ -21,17 +21,17 @@ public void map(LongWritable key, Text value, OutputCollector<Text, IntWritable>
 	StringTokenizer tokenizer = new StringTokenizer(line);
 	while (tokenizer.hasMoreTokens()) {
 		word.set(tokenizer.nextToken());
-		output.collect(word, one); //{Mary, 1} //{had, 1} {little, 1} {lamb,1} {little, 1} 
+		output.collect(word, one); 
 	}
 	}
 }
 
 //REDUCER CODE	
 public static class Reduce extends MapReduceBase implements Reducer<Text, IntWritable, Text, IntWritable> {
-public void reduce(Text key, Iterator<IntWritable> values, OutputCollector<Text, IntWritable> output, Reporter reporter) throws IOException { //{little: {1,1}} 
+public void reduce(Text key, Iterator<IntWritable> values, OutputCollector<Text, IntWritable> output, Reporter reporter) throws IOException { 
 	int sum = 0;
 	while (values.hasNext()) {
-	         sum += values.next().get(); // sum = 0 , sum <- sum + 1 < 1 , sum = 1+1 = > {key:little, sum=2}
+	         sum += values.next().get();
        	}
 	output.collect(key, new IntWritable(sum));
 	}
