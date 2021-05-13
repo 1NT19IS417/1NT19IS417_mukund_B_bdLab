@@ -26,7 +26,7 @@ public class TransactionCount
 
 		//REDUCER CODE	
 		public static class Reduce extends MapReduceBase implements Reducer<Text, IntWritable, Text, IntWritable> {
-		public void reduce(Text key, Iterator<IntWritable> values, OutputCollector<Text, IntWritable> output, Reporter reporter) throws IOException { //{little: {1,1}} 
+		public void reduce(Text key, Iterator<IntWritable> values, OutputCollector<Text, IntWritable> output, Reporter reporter) throws IOException { 
 				int transcount = 0;
 				while(values.hasNext()) {
 					transcount += values.next().get();
