@@ -8,4 +8,4 @@ Batch : B3
 <hr/>
 
 # LA Component Repository 
-[BD LA Component](https://github.com/1NT19IS417/BD-LA2)
+[BD LA 2 Component](https://github.com/1NT19IS417/BD-LA2)
