@@ -1,0 +1,254 @@
+[
+ {
+   "Movie name": "The Shawshank Redemption",
+   "imdbrating": 9.3,
+   "Genre": "Drama",
+   "positivefeedback": 2343110,
+   "Referable": true
+ },
+ {
+   "Movie name": "The Godfather",
+   "imdbrating": 9.2,
+   "Genre": "Crime",
+   "positivefeedback": 1620367,
+   "Referable": false
+ },
+ {
+   "Movie name": "The Dark Knight",
+   "imdbrating": 9,
+   "Genre": "Action",
+   "positivefeedback": 2303232,
+   "Referable": false
+ },
+ {
+   "Movie name": "The Godfather: Part II",
+   "imdbrating": 9,
+   "Genre": "Crime",
+   "positivefeedback": 1129952,
+   "Referable": true
+ },
+ {
+   "Movie name": "12 Angry Men",
+   "imdbrating": 9,
+   "Genre": "Crime",
+   "positivefeedback": 689845,
+   "Referable": false
+ },
+ {
+   "Movie name": "The Lord of the Rings: The Return of the King",
+   "imdbrating": 8.9,
+   "Genre": "Adventure",
+   "positivefeedback": 1642758,
+   "Referable": false
+ },
+ {
+   "Movie name": "Pulp Fiction",
+   "imdbrating": 8.9,
+   "Genre": "Drama",
+   "positivefeedback": 1826188,
+   "Referable": true
+ },
+ {
+   "Movie name": "Schindler's List",
+   "imdbrating": 8.9,
+   "Genre": "Biography",
+   "positivefeedback": 1213505,
+   "Referable": true
+ },
+ {
+   "Movie name": "Inception",
+   "imdbrating": 8.8,
+   "Genre": "Sci-Fi",
+   "positivefeedback": 2067042,
+   "Referable": true
+ },
+ {
+   "Movie name": "Fight Club",
+   "imdbrating": 8.8,
+   "Genre": "Drama",
+   "positivefeedback": 1854740,
+   "Referable": true
+ },
+ {
+   "Movie name": "The Lord of the Rings: The Fellowship of the Ring",
+   "imdbrating": 8.8,
+   "Genre": "Adventure",
+   "positivefeedback": 1661481,
+   "Referable": true
+ },
+ {
+   "Movie name": "Forrest Gump",
+   "imdbrating": 8.8,
+   "Genre": "Romance",
+   "positivefeedback": 1809221,
+   "Referable": false
+ },
+ {
+   "Movie name": "The Lord of the Rings: The Two Towers",
+   "imdbrating": 8.7,
+   "Genre": "Adventure",
+   "positivefeedback": 1485555,
+   "Referable": true
+ },
+ {
+   "Movie name": "The Matrix",
+   "imdbrating": 8.7,
+   "Genre": "Action",
+   "positivefeedback": 1676426,
+   "Referable": true
+ },
+ {
+   "Movie name": "Goodfellas",
+   "imdbrating": 8.7,
+   "Genre": "Biography",
+   "positivefeedback": 1020727,
+   "Referable": false
+ },
+ {
+   "Movie name": "Star Wars: Episode V - The Empire Strikes Back",
+   "imdbrating": 8.7,
+   "Genre": "Action",
+   "positivefeedback": 1159315,
+   "Referable": false
+ },
+ {
+   "Movie name": "One Flew Over the Cuckoo's Nest",
+   "imdbrating": 8.7,
+   "Genre": "Drama",
+   "positivefeedback": 918088,
+   "Referable": false
+ },
+ {
+   "Movie name": "Hamilton",
+   "imdbrating": 8.6,
+   "Genre": "Biography",
+   "positivefeedback": 55291,
+   "Referable": false
+ },
+ {
+   "Movie name": "Soorarai Pottru",
+   "imdbrating": 8.6,
+   "Genre": "Drama",
+   "positivefeedback": 54995,
+   "Referable": false
+ },
+ {
+   "Movie name": "Interstellar",
+   "imdbrating": 8.6,
+   "Genre": "Adventure",
+   "positivefeedback": 1512360,
+   "Referable": true
+ },
+ {
+   "Movie name": "Saving Private Ryan",
+   "imdbrating": 8.6,
+   "Genre": "War",
+   "positivefeedback": 1235804,
+   "Referable": false
+ },
+ {
+   "Movie name": "The Green Mile",
+   "imdbrating": 8.6,
+   "Genre": "Fantasy",
+   "positivefeedback": 1147794,
+   "Referable": false
+ },
+ {
+   "Movie name": "Se7en",
+   "imdbrating": 8.6,
+   "Genre": "Suspense",
+   "positivefeedback": 1445096,
+   "Referable": true
+ },
+ {
+   "Movie name": "The Silence of the Lambs",
+   "imdbrating": 8.6,
+   "Genre": "Suspense",
+   "positivefeedback": 1270197,
+   "Referable": true
+ },
+ {
+   "Movie name": "Star Wars",
+   "imdbrating": 8.6,
+   "Genre": "Action",
+   "positivefeedback": 1231473,
+   "Referable": true
+ },
+ {
+   "Movie name": "It's a Wonderful Life",
+   "imdbrating": 8.6,
+   "Genre": "Family",
+   "positivefeedback": 405801,
+   "Referable": true
+ },
+ {
+   "Movie name": "Joker",
+   "imdbrating": 8.5,
+   "Genre": "Thriller",
+   "positivefeedback": 939252,
+   "Referable": false
+ },
+ {
+   "Movie name": "Whiplash",
+   "imdbrating": 8.5,
+   "Genre": "Music",
+   "positivefeedback": 717585,
+   "Referable": true
+ },
+ {
+   "Movie name": "The Intouchables",
+   "imdbrating": 8.5,
+   "Genre": "Comedy",
+   "positivefeedback": 760360,
+   "Referable": false
+ },
+ {
+   "Movie name": "The Prestige",
+   "imdbrating": 8.5,
+   "Genre": "Suspense",
+   "positivefeedback": 1190259,
+   "Referable": true
+ },
+ {
+   "Movie name": "The Departed",
+   "imdbrating": 8.5,
+   "Genre": "Thriller",
+   "positivefeedback": 1189773,
+   "Referable": true
+ },
+ {
+   "Movie name": "The Pianist",
+   "imdbrating": 8.5,
+   "Genre": "Music",
+   "positivefeedback": 729603,
+   "Referable": false
+ },
+ {
+   "Movie name": "Gladiator",
+   "imdbrating": 8.5,
+   "Genre": "Action",
+   "positivefeedback": 1341460,
+   "Referable": true
+ },
+ {
+   "Movie name": "American History X",
+   "imdbrating": 8.5,
+   "Genre": "Drama",
+   "positivefeedback": 1034705,
+   "Referable": false
+ },
+ {
+   "Movie name": "The Usual Suspects",
+   "imdbrating": 8.5,
+   "Genre": "Thriller",
+   "positivefeedback": 991208,
+   "Referable": true
+ },
+ {
+   "Movie name": "The Lion King",
+   "imdbrating": 8.5,
+   "Genre": "Animation",
+   "positivefeedback": 942045,
+   "Referable": true
+ }
+]
