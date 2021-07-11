@@ -38,7 +38,8 @@ public class Movie2
 		public void reduce(Text key, Iterator<IntWritable> values, OutputCollector<Text, IntWritable> output, Reporter reporter) throws IOException 
     { 
 				int count = 0;
-				while(values.hasNext()) {
+				while(values.hasNext()) 
+				{
 					count += values.next().get();
 				}
 				
