@@ -9,3 +9,6 @@ Batch : B3
 
 # LA Component Repository 
 [BD LA 2 Component](https://github.com/1NT19IS417/BD-LA2)
+
+# Internal Component Repository 
+[Internal Component](https://github.com/1NT19IS417/1NT19IS417_mukund_B_bdLab/tree/main/BD%20internals)
