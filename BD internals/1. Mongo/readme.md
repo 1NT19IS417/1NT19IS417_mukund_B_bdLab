@@ -5,4 +5,5 @@ Name : Mukund.G
 USN : 1NT19IS417   
 Batch : B3   
 
+For the Queries check the PPT 
 <hr/>
